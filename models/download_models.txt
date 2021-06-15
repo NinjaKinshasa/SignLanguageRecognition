@@ -1,0 +1,3 @@
+Télécharger les modèles et les extraires dans ce dossier :
+
+s3://aoc-innov-data-dwyh/dataset_LSF10/models.zip
